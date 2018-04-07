@@ -1,0 +1,9 @@
+
+{ 
+  "u1":{ "user":"Keith"  , "from":"WA", "food":"Apples with Cheese" },
+  "u2":{ "user":"Morgane", "from":"NY", "food":"French Sandwich" },
+  "u3":{ "user":"Sophia" , "from":"AZ", "food":"Cake" }, 
+  "u4":{ "user":"Oliver" , "from":"OR", "food":"Ice Cream" },
+  "u5":{ "user":"Theo"   , "from":"CA", "food":"Chocolate Crackers" },
+  "u6":{ "user":"Margoux", "from":"FL", "food":"Ice Cubes" },
+}
