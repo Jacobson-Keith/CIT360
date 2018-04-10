@@ -8,7 +8,7 @@ public class MapModel implements Serializable{
     
     private States[] location;
 
-    public ModelMap() {
+    public MapModel() {
     }
     
     public States[] getLocation() {
