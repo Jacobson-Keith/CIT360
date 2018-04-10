@@ -1,3 +1,5 @@
+package NewMVC;
+
 public class RideReqView {
    public void printRequirementDetails(String riderHeight, String riderAge){
       if (riderHeight > 42 && riderAge > 7) {
