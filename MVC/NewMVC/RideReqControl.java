@@ -1,3 +1,5 @@
+package NewMVC;
+
 public class RideReqControl {
    private RideReq model;
    private RideReqView view;
