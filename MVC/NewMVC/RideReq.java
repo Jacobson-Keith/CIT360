@@ -1,3 +1,5 @@
+package NewMVC;
+
 public class RideReq {
    private String height;
    private String age;
